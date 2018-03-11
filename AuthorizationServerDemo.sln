@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27421.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthorizationServerDemo", "AuthorizationServerDemo\AuthorizationServerDemo.csproj", "{B2DF1DC4-0D24-4B67-B5EE-7D54442A582A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuthorizationServerDemo", "AuthorizationServerDemo\AuthorizationServerDemo.csproj", "{B2DF1DC4-0D24-4B67-B5EE-7D54442A582A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LandSenseAuthentication", "LandSenseAuthentication\LandSenseAuthentication.csproj", "{830078C2-6CF4-43CC-9FF5-2387DF577707}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{B2DF1DC4-0D24-4B67-B5EE-7D54442A582A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B2DF1DC4-0D24-4B67-B5EE-7D54442A582A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B2DF1DC4-0D24-4B67-B5EE-7D54442A582A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{830078C2-6CF4-43CC-9FF5-2387DF577707}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{830078C2-6CF4-43CC-9FF5-2387DF577707}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{830078C2-6CF4-43CC-9FF5-2387DF577707}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{830078C2-6CF4-43CC-9FF5-2387DF577707}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
