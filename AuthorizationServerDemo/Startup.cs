@@ -45,7 +45,7 @@
 					options.SaveTokens = true;
 
 					// Not working with the encrypted UserInfo-Endpoint response
-					////options.GetClaimsFromUserInfoEndpoint = true;
+					options.GetClaimsFromUserInfoEndpoint = true;
 
 					options.Scope.Add("openid");
 					options.Scope.Add("profile");
